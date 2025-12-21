@@ -3,7 +3,7 @@
 Aquí puedes ver de un vistazo los mapas visuales para entender la lógica de Java:
 
 ### 🗺️ Tipos de datos y operacionales
-![Infograma](tipos%de%datos.png)
+![Infograma](tipos%20de%20datos.png)
 
-### 🧰 Presentacion explicativa
-![Presentacion](datos&operadores.pdf)
+### 🧰 Presentación explicativa
+[📄 Haz clic aquí para abrir la Presentación de Datos y Operadores (PDF)](datos&operadores.pdf)
