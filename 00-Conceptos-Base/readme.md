@@ -7,3 +7,5 @@ Aquí puedes ver de un vistazo los mapas visuales para entender la lógica de Ja
 ### 🗺️ Tipos de datos y operacionales
 ![Infograma](tipos%20de%20datos.png)
 
+### 🗺️ Tipos de datos y operacionales
+![Infograma Tipos de Datos](tipos%20de%20datos.png)
