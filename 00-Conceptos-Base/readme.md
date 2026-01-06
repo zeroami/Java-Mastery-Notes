@@ -10,3 +10,7 @@ Aquí puedes ver de un vistazo los mapas visuales para entender la lógica de Ja
 [📄 Haz clic aquí para abrir la Presentación Los Tipos de Datos(PDF)](Los_5_Elementos_del_Código.pdf)
 ### 🗺️ Tipos de datos y operacionales
 ![Infograma Tipos de Datos](tipos%20de%20datos.png)
+
+
+### 🗺️ Java Scanner (Introducir datos por consola)
+![Infograma Java Scanner](Java.Scanner-1.png)
