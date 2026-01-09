@@ -1,24 +1,30 @@
-# 🚦 Control de Flujo 
+# 🚦 Lógica y Control de Flujo en Java
 
-En este módulo exploro cómo gestionar la lógica de nuestras aplicaciones en Java, buscando el equilibrio entre eficiencia y legibilidad.
----
-## 📸 Recursos Visuales
+## 📸 Galería de Esquemas: Control de Flujo
+Aquí puedes ver de un vistazo los mapas visuales para entender la lógica de Java:
 
-| 🧠 Estructuras de Control | ⚖️ El Operador Ternario |
-| :---: | :---: |
-| ![Control de Flujo](./ControlDeFlujo.png) | ![Ternarios](./Ternarios.png) |
-| [📂 Ver imagen en alta resolución](./ControlDeFlujo.png) | [📂 Ver imagen en alta resolución](./Ternarios.png) |
+### 🧠 Mapa de Control de Flujo
+![Control de Flujo](./ControlDeFlujo.png)
 
 ---
 
-## 📚 Documentación Detallada (PDF)
-
-Si quieres profundizar en la teoría y buenas prácticas, he preparado estas guías detalladas:
-
-* **[📄 El Arte del Control: Intención al Código (PDF)](./El_Arte_del_Control_Intención_al_Código.pdf)**
-    * *Un análisis sobre cuándo usar if-else vs switch y cómo estructurar la lógica.*
-* **[📄 Ternarios: ¿Elegancia o Jeroglífico? (PDF)](./Ternario_Elegancia_O_Jeroglífico.pdf)**
-    * *Guía de supervivencia para no abusar del operador ternario y mantener el código limpio.*
+### ⚖️ El Operador Ternario: ¿Elegancia o Jeroglífico?
+![Ternarios](./Ternarios.png)
 
 ---
-[⬅️ Volver al inicio del repositorio](https://github.com/zeroami/Java-Mastery-Notes)
+
+## 🧰 Material de Estudio y Presentaciones
+
+### 📄 Presentación: El Arte del Control
+[Haz clic aquí para abrir el PDF: El Arte del Control, Intención al Código](./El_Arte_del_Control_Intención_al_Código.pdf)
+
+### 📄 Guía de Ternarios
+[Haz clic aquí para abrir el PDF: Ternarios, Elegancia o Jeroglífico](./Ternario_Elegancia_O_Jeroglífico.pdf)
+
+---
+
+## 🗺️ Tipos de datos y operacionales
+*(Aquí puedes añadir tu esquema o descripción sobre tipos de datos primarios y operadores aritméticos/lógicos)*
+
+## ⌨️ Java Scanner (Introducir datos por consola)
+*(Sección dedicada al uso de `Scanner reader = new Scanner(System.in);`)*
