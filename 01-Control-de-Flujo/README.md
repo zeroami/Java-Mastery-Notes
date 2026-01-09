@@ -20,11 +20,3 @@ Aquí puedes ver de un vistazo los mapas visuales para entender la lógica de Ja
 
 ### 📄 Guía de Ternarios
 [Haz clic aquí para abrir el PDF: Ternarios, Elegancia o Jeroglífico](./Ternario_Elegancia_O_Jeroglífico.pdf)
-
----
-
-## 🗺️ Tipos de datos y operacionales
-*(Aquí puedes añadir tu esquema o descripción sobre tipos de datos primarios y operadores aritméticos/lógicos)*
-
-## ⌨️ Java Scanner (Introducir datos por consola)
-*(Sección dedicada al uso de `Scanner reader = new Scanner(System.in);`)*
